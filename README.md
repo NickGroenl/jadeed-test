@@ -1,6 +1,5 @@
 # Nodejs App with express and jest, supertest
-Para iniciar la aplicacion utilizar los siguientes comandos
-
+To run app in 3001 port :
 ```shell
 npm i && npm run dev
 ```
